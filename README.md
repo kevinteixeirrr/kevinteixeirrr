@@ -1,8 +1,7 @@
 ### Oii ! Me chamo Kevin Teixeira Paula
 
 
-
-![Kevin GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinteixeirrr&show_icons=true&theme=radical) 
+ 
 
 
 
