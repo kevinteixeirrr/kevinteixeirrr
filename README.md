@@ -20,5 +20,3 @@
 
 ###  Estudo Tecnologia em Sistemas da Computação
 <br>
-
-Tenho 20 anos e sou apaixonado por tecnologia.
