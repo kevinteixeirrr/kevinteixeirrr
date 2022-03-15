@@ -1,6 +1,6 @@
 ### Oii ! Me chamo Kevin Teixeira Paula
 
-###  Estudo Tecnologia em Sistemas da Computação
+###  Estudo Tecnologia em Sistemas de Computação
  
 
  
